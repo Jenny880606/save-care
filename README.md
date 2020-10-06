@@ -40,10 +40,10 @@
 ## 硬體電路示意圖
 
 * Send端
-<img src="pics/11.png" width="400px" height="350px">
+<img src="pics/11.png" width="450px" height="350px">
 
 * Retrieve端
-<img src="pics/12.png" width="400px" height="350px">
+<img src="pics/12.png" width="450px" height="350px">
 
 ## 軟體程式執行流程圖
 
