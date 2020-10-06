@@ -15,4 +15,4 @@
 <img src="pics/1.png" width="150px" height="150px">
 
 * 原先資料狀態
-<img src="pics/.png" width="150px" height="150px">
+<img src="pics/2.png" width="150px" height="150px">
