@@ -11,4 +11,5 @@
 
 ## 執行流程
 
+* 準備跌倒
 <img src="pics/1.png" width="150px" height="150px">
