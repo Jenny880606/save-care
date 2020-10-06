@@ -16,3 +16,7 @@
 
 * 原先資料狀態
 <img src="pics/2.png" width="150px" height="150px">
+
+* 偵測跌倒情況(發送端)(蜂鳴器會響) 
+<img src="pics/3.png" width="150px" height="150px">
+<img src="pics/4.png" width="150px" height="150px">
