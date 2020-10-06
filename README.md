@@ -11,4 +11,4 @@
 
 ## 執行流程
 
-<img src="pics/1.png" width="300px" height="300px">
+<img src="pics/1.png" width="150px" height="150px">
