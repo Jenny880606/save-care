@@ -36,3 +36,15 @@
 
 * 回復正常狀態(接收端)
 <img src="pics/10.png" width="200px" height="200px">
+
+## 硬體電路示意圖
+
+* Send端
+<img src="pics/11.png" width="300px" height="300px">
+
+* Retrieve端
+<img src="pics/12.png" width="300px" height="300px">
+
+## 軟體程式執行流程圖
+
+<img src="pics/13.png" width="400px" height="200px">
