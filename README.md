@@ -12,11 +12,27 @@
 ## 執行流程
 
 * 準備跌倒
-<img src="pics/1.png" width="150px" height="150px">
+<img src="pics/1.png" width="200px" height="200px">
 
 * 原先資料狀態
-<img src="pics/2.png" width="150px" height="150px">
+<img src="pics/2.png" width="200px" height="200px">
 
 * 偵測跌倒情況(發送端)(蜂鳴器會響) 
-<img src="pics/3.png" width="150px" height="150px">
-<img src="pics/4.png" width="150px" height="150px">
+<img src="pics/3.png" width="200px" height="200px">
+<img src="pics/4.png" width="200px" height="200px">
+
+* 偵測後資料狀態(Ubidots)
+<img src="pics/5.png" width="200px" height="200px">
+
+* 接收到跌倒情況(接收端)(LED暗)
+<img src="pics/6.png" width="200px" height="200px">
+<img src="pics/7.png" width="200px" height="200px">
+
+* 跌倒但還有意識沒有大礙，則按下按鈕回復正常狀態
+<img src="pics/8.png" width="200px" height="200px">
+
+* 回復正常狀態(Ubidots)
+<img src="pics/9.png" width="200px" height="200px">
+
+* 回復正常狀態(接收端)
+<img src="pics/10.png" width="200px" height="200px">
